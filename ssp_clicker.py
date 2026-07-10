@@ -5,8 +5,9 @@ import keyboard
 
 # ─── CONFIGURATION ───
 # REPLACE THESE NUMBERS WITH WHAT FIND_COORDS.PY GIVES YOU:
-X_COORD = 500       
-Y_COORD = 600       
+# Your coordinates are: Point(x=1008, y=537)
+X_COORD = 1008       
+Y_COORD = 537       
 
 print("Program starting in 5 seconds.")
 print("Switch to your game window NOW.")
